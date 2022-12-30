@@ -1,0 +1,18 @@
+# HOW CAN CLONE MY REPOSITORY into MY COMPUTER?
+
+              1. Open new tab in SourceTree
+              2. Click 'Clone'
+              3. Enter Source Path/URL 
+              4. You can find Source Path/URL in your particular repository <> Code section. Copy the URL.
+              5. Choose Destination Path 
+              6. Click Clone and finish the process.
+              
+# HOW CAN ADD FILES to MY REPOSITORY from MY COMPUTER
+              1. Open repository clone file in your computer
+              2. Add the file(s) which is/are wanted to add.
+              3. From Workspace/History tab, you can see the files
+              4. Stage All that you want to add.
+              5. From Workspace/File Status Add Commit and click Push from above tabs.
+           
+             
+
